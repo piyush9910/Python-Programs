@@ -1,0 +1,11 @@
+#Add
+print(10+3)
+#Subtract
+print(10-3)
+#Multiply
+print(10*3)
+#Division
+print(10/3)
+print(10//3)
+#Exponential
+print(10**3)
